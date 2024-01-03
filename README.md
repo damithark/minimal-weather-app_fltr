@@ -1,1 +1,3 @@
-# minimal-weather-app_fltr
+# minimal_weather_app
+
+A new Flutter project.
